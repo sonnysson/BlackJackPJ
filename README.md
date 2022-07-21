@@ -1,4 +1,4 @@
-# BlackJack.ui 와 BlackJack_Ver1.ipynb 다운로드 후 실행!!!
+# 폴더 다운로드후 BlackJack_Ver1.ipynb 실행
 
 # BlackJackPJ
 블랙잭 (BlackJack) 게임 만들기
